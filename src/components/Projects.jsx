@@ -12,35 +12,35 @@ const projects = [
     title: "Limer Tyre Patch",
     description: "A project showcasing the tyre patching business with an interactive website and details of services, contact info, and more.",
     link: "#Due To some currenly shut down", // temporarily unavailable
-    image: "/src/assets/Img/Limer.jpeg",
+    image: "//public/Limer.jpeg",
     blurhash: "L15f+F~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Honey Dew Nannari Sarbath",
     description: "A syrup-selling business website that highlights the Nannari Sarbath products, flavors, and ordering options.",
     link: "https://honeydewmallukitchen.com/honey%20dew/honey%20index.html",
-    image: "/src/assets/Img/honey dew.png",
+    image: "/public/honey dew.png",
     blurhash: "L26z$X~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Mallu Bhais Kitchen",
     description: "An authentic Dosha shop website that shows menu items, food images, and ordering/contact options.",
     link: "https://honeydewmallukitchen.com/",
-    image: "/src/assets/Img/Mallu Bhais.png",
+    image: "/public/Mallu Bhais.png",
     blurhash: "L45x9U~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Ciaaming Ladies Tailoring",
     description: "A ladies tailoring and stitching website showcasing services, stitching designs, and appointment booking.",
     link: "https://ciammi.netlify.app/", 
-    image: "/src/assets/Img/ciaami.png",
+    image: "/public/ciaami.png",
     blurhash: "L35x8X~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "My Personal Portfolio",
     description: "My personal portfolio showcasing projects, skills, and experience as a front-end developer and full-stack enthusiast.",
     link: "https://adhinshaji.netlify.app/",
-    image: "/src/assets/Img/Personal .png",
+    image: "/public/Personal .png",
     blurhash: "L44x9Y~q00Rj_3kC%MRj~qkC?bof"
   },
   {
