@@ -32,7 +32,7 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/pritpatel2412/Portfolio.git
+git clone https://github.com/AdhinShaji7/Advanced-Portfolio-Vite-React-Tailwind
 
 # 3. Install dependencies
 npm install
