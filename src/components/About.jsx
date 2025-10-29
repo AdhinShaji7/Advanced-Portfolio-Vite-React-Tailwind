@@ -26,9 +26,10 @@ const About = () => {
           Currently, I’m working as a Front-End Intern at CoreCore Global, where I contribute to building interactive and responsive web interfaces. I thrive on solving problems, learning new technologies, and applying them to practical solutions.
         </p>
 
-        <p className="text-lg leading-relaxed mb-4">
-          I am also developing <strong>Xeon</strong>, a startup project designed to transform bold ideas into structured opportunities. This venture helps me grow my entrepreneurial mindset while honing skills in product thinking, strategy, and leadership — all through real-world feedback and continuous iteration.
-        </p>
+         <p className="text-lg leading-relaxed mb-4">
+          I’m actively working on multiple <strong>React-based projects</strong>, building modern web apps that focus on performance and user experience. Each project strengthens my skills in frontend development, design thinking, and problem-solving.
+         </p>
+
 
         <p className="text-lg leading-relaxed mb-4">
           I am continuously exploring modern web technologies such as React, Redux, Tailwind, Firebase, Node.js, and REST APIs to improve my development skills and deliver efficient, scalable, and innovative solutions.
