@@ -9,46 +9,46 @@ import ProjectImage from "./utils/ProjectImage";
 
 const projects = [
   {
-    title: "Limer ",
+    title: "Limer",
     description: "A project showcasing the tyre patching business with an interactive website and details of services, contact info, and more.",
-    link: "https://limer.us/", 
-    image: "/public/Limer.jpeg",
+    link: "https://limer.us/",
+    image: `${import.meta.env.BASE_URL}Limer.jpeg`, // ✅ fixed path
     blurhash: "L15f+F~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Honey Dew Nannari Sarbath",
     description: "A syrup-selling business website that highlights the Nannari Sarbath products, flavors, and ordering options.",
     link: "https://honeydewmallukitchen.com/honey%20dew/honey%20index.html",
-    image: "/public/honey dew.png",
+    image: `${import.meta.env.BASE_URL}honey dew.png`, // ✅ fixed path
     blurhash: "L26z$X~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Mallu Bhais Kitchen",
     description: "An authentic Dosha shop website that shows menu items, food images, and ordering/contact options.",
     link: "https://honeydewmallukitchen.com/",
-    image: "/public/Mallu Bhais.png",
+    image: `${import.meta.env.BASE_URL}Mallu Bhais.png`, // ✅ fixed path
     blurhash: "L45x9U~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Ciaaming Ladies Tailoring",
     description: "A ladies tailoring and stitching website showcasing services, stitching designs, and appointment booking.",
-    link: "https://ciammi.netlify.app/", 
-    image: "/public/ciaami.png",
+    link: "https://ciammi.netlify.app/",
+    image: `${import.meta.env.BASE_URL}ciaami.png`, // ✅ fixed path
     blurhash: "L35x8X~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "My Personal Portfolio",
     description: "My personal portfolio showcasing projects, skills, and experience as a front-end developer and full-stack enthusiast.",
     link: "https://adhinshaji.netlify.app/",
-    image: "/public/Personal .png",
+    image: `${import.meta.env.BASE_URL}Personal .png`, // ✅ fixed path
     blurhash: "L44x9Y~q00Rj_3kC%MRj~qkC?bof"
   },
   {
     title: "Coming Soon",
     description: "Still in the oven. Can’t wait to serve it hot!",
-    link: "", // Comming Soon
-    image: "/black_page.jpg",
-    blurhash:"L00SvEayWAfQozfQayfQayfQf8fQ"
+    link: "",
+    image: `${import.meta.env.BASE_URL}black_page.jpg`, // ✅ fixed path
+    blurhash: "L00SvEayWAfQozfQayfQayfQf8fQ"
   },
 ];
 
