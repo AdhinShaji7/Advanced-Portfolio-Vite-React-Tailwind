@@ -9,7 +9,7 @@ import ProjectImage from "./utils/ProjectImage";
 
 const projects = [
   {
-    title: "Limer Tyre Patch",
+    title: "Limer ",
     description: "A project showcasing the tyre patching business with an interactive website and details of services, contact info, and more.",
     link: "https://limer.us/", 
     image: "/public/Limer.jpeg",
