@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Limer Tyre Patch",
     description: "A project showcasing the tyre patching business with an interactive website and details of services, contact info, and more.",
-    link: "#Due To some currenly shut down", // temporarily unavailable
+    link: "https://limer.us/", 
     image: "/public/Limer.jpeg",
     blurhash: "L15f+F~q00Rj_3kC%MRj~qkC?bof"
   },
